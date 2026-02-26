@@ -1,4 +1,4 @@
-# Battleship‑Game
+# Battleship Game
 
 A first‑year engineering project: a console implementation of the classic Battleship game in C++.  
 
@@ -66,4 +66,4 @@ The game continues until one player sinks all opponent’s ships.
 
 ## License / Credits
 
-This project was developed by Athanasios Konstantis as a first‑year engineering exercise. Feel free to use, modify or extend it for educational purposes.
+This project was developed by Athanasios Konstantis, Athanasios Chouklis, Georgios Papandreou and Filippos Panagopoulos as a first‑year engineering exercise. Feel free to use, modify or extend it for educational purposes.
